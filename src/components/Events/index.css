@@ -1,0 +1,28 @@
+.bg-container {
+  display: flex;
+}
+
+.events-card {
+  width: 60%;
+  background-color: #323f4b;
+  padding: 22px;
+}
+
+.event-header {
+  font-family: 'Roboto';
+  font-size: 22px;
+  color: #f8fafc;
+}
+
+.event-list-container {
+  list-style-type: none;
+  padding-left: 0px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+.view-container {
+  width: 40%;
+  padding: 22px;
+}

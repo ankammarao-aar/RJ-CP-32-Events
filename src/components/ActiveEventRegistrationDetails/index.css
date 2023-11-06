@@ -1,0 +1,85 @@
+.no-active-event-container {
+  font-family: 'Roboto';
+  padding: 22px;
+}
+
+.no-active-para {
+  text-align: center;
+  color: #64748b;
+}
+
+.yet-to-register-container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.yet-to-register-img {
+  height: 250px;
+  margin-bottom: 22px;
+}
+
+.yet-to-card {
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+}
+
+.yet-to-register-para {
+  font-family: 'Roboto';
+  color: #64748b;
+}
+
+.yet-to-register-button {
+  font-family: 'Roboto';
+  background-color: #0967d2;
+  color: #ffffff;
+  border: 0px;
+  border-radius: 6px;
+  padding: 8px;
+}
+
+.registered-view-container {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.registered-img {
+  height: 68px;
+}
+
+.registered-view-para {
+  font-family: 'Roboto';
+  font-weight: bold;
+  color: #475569;
+  text-align: center;
+}
+
+.closed-view-container {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.closed-view-img {
+  height: 250px;
+}
+
+.closed-view-heading {
+  font-family: 'Roboto';
+  font-size: 20px;
+  color: #323f4b;
+}
+
+.closed-view-para {
+  font-family: 'Roboto';
+  color: #475569;
+}

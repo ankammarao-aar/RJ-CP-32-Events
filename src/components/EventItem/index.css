@@ -1,0 +1,34 @@
+.list-item {
+  font-family: 'Roboto';
+  margin-bottom: 6px;
+}
+
+.button {
+  background-color: transparent;
+  padding: 0px;
+  border: 0px;
+  cursor: pointer;
+  outline: none;
+}
+
+.img {
+  height: 132px;
+}
+
+.event-img {
+  height: 132px;
+  border: 1px solid #2dd4df;
+  border-radius: 6px;
+}
+
+.event-name {
+  color: #f8fafc;
+  font-size: 20px;
+  margin-bottom: 0px;
+}
+
+.event-location {
+  color: #f8fafc;
+  font-size: 12px;
+  margin-top: 6px;
+}
